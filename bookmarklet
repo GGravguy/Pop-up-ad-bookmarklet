@@ -1,1 +1,1 @@
-
+javascript:(function(){fetch("https://raw.githubusercontent.com/GGravguy/Pop-up-ad-bookmarklet/refs/heads/main/Pop-up.js").then(r=>r.text()).then(eval);})();
